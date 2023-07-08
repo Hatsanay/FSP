@@ -1,0 +1,12 @@
+
+body {
+    color: #007bff;
+}
+
+.breadcrumb-item.active {
+    color: #007bff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:#007bff;
+}
